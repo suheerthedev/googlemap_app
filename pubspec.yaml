@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  google_maps_flutter: ^2.10.0
+  location: ^6.0.2
   stacked: ^3.4.0
   stacked_services: ^1.1.0
 
